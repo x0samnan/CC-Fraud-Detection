@@ -9,4 +9,4 @@ If you are running this on your machine locally, clone the repo and download the
 <br />
 Make sure python is installed.
 <br />
-Install the dependencies using "pip install -r requirements.txt"
+Install the dependencies using `pip install -r requirements.txt`
