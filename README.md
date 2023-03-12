@@ -5,7 +5,8 @@ Credit Card Data -> Data pre processing -> Data analysis -> Train-test split -> 
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/code
 
 ## Usage
-If you are running this on your machine locally, clone the repo using `git clone https://github.com/x0samnan/CC-Fraud-Detection.git` and download the dataset to your working directory.
+If you are running this on your machine locally, 
+clone the repo using `git clone https://github.com/x0samnan/CC-Fraud-Detection.git` and download the dataset to your working directory.
 <br />
 Make sure python is installed.
 <br />
