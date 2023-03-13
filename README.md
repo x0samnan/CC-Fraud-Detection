@@ -7,12 +7,12 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/code
 ## Usage
 If you are running this on your machine locally,
 <br /> 
-* Clone the repo and download the dataset to your working directory.
+1.a) Clone the repo and download the dataset to your working directory.
 <br />
 <b>or, </b> 
 <br />
-* Import using kaggle pip module and API token for dataset.
+1.b) Import using kaggle pip module and API token for dataset.
 <br />
-* Make sure python and pip is installed.
+2) Make sure python and pip is installed.
 <br />
-* Install the dependencies using "pip install -r requirements.txt".
+3) Install the dependencies using "pip install -r requirements.txt".
