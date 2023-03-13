@@ -1,6 +1,7 @@
 pandas
 numpy
 scikit-learn
+kaggle 
 
 ## Usage
 ## pip install -r requirements.txt
