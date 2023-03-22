@@ -15,4 +15,4 @@ If you are running this on your machine locally,
 <br />
 2) Make sure python and pip is installed.
 <br />
-3) Install the dependencies using "pip install -r requirements.txt".
+3) Install the dependencies using `pip install -r requirements.txt`.
