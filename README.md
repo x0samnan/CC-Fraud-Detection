@@ -14,7 +14,8 @@ If you are running this project locally, follow these steps:
    ```bash
    git clone https://github.com/x0samnan/CC-Fraud-Detection.git
    ```
-2. ```bash
+2. Installing the requirements
+   ```bash
     pip install -r requirements.txt
    ```
 
