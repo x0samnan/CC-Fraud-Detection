@@ -16,7 +16,7 @@ If you are running this project locally, follow these steps:
    ```
 2. ```bash
     pip install -r requirements.txt
-
+   ```
 
 
 
