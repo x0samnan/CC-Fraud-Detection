@@ -9,6 +9,7 @@ Credit Card Data -> Data pre processing -> Data analysis -> Train-test split -> 
 The dataset used for this project can be found [here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/code).
 
 ## Usage
+
 If you are running this project locally, follow these steps:
 1. Clone the repository:
    ```bash
@@ -21,4 +22,17 @@ If you are running this project locally, follow these steps:
 
 
 
+
+
+If you are running this on your machine locally,
+<br /> 
+1.a) Clone the repo and download the dataset to your working directory.
+<br />
+<b>or, </b> 
+<br />
+1.b) Import using kaggle pip module and API token for dataset.
+<br />
+2) Make sure python and pip is installed.
+<br />
+3) Install the dependencies using `pip install -r requirements.txt`.
 
